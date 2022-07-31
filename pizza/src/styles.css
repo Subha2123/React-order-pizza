@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.form {
+  background-color: gray;
+}
+label {
+  font-size: 30px;
+  color: blue;
+}
+button {
+  background-color: black;
+}
+input {
+  font-size: 20px;
+  width: 200px;
+  height: 25px;
+}
